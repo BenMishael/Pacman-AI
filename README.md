@@ -25,12 +25,8 @@ This project is an implementation of the classic Pacman game with an AI-controll
     </div>
 </div>
 
-## Videos
-
-<video width="640" height="480" controls>
-  <source src="./video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Watch the Demo
+[![Watch the video](https://img.youtube.com/vi/M0aJAR8WXTY/maxresdefault.jpg)](https://youtu.be/M0aJAR8WXTY)
 
 ## Installation
 
