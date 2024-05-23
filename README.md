@@ -12,16 +12,29 @@ This project is an implementation of the classic Pacman game with an AI-controll
 
 ## Screenshots
 
-<img src="./screenshots/screenshot1.png" width="200">
-<img src="./screenshots/screenshot2.png" width="200">
-<img src="./screenshots/screenshot3.png" width="200">
-<img src="./screenshots/screenshot4.png" width="200">
-<img src="./screenshots/screenshot5.png" width="200">
-<img src="./screenshots/screenshot6.png" width="200">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div style="display: flex; gap: 10px;">
+        <img src="./screenshots/screenshot1.png" width="200" alt="Screenshot 1">
+        <img src="./screenshots/screenshot2.png" width="200" alt="Screenshot 2">
+        <img src="./screenshots/screenshot3.png" width="200" alt="Screenshot 3">
+    </div>
+    <div style="display: flex; gap: 10px;">
+        <img src="./screenshots/screenshot4.png" width="200" alt="Screenshot 4">
+        <img src="./screenshots/screenshot5.png" width="200" alt="Screenshot 5">
+        <img src="./screenshots/screenshot6.png" width="200" alt="Screenshot 6">
+    </div>
+</div>
+
+## Videos
+
+<video width="640" height="480" controls>
+  <source src="./video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/pacman-ai.git`
+1. Clone the repository: `git clone https://github.com/BenMishael/pacman-ai.git`
 2. Install the Allegro5 library (instructions vary based on your operating system)
 3. Compile the source code using your preferred C++ compiler
 
